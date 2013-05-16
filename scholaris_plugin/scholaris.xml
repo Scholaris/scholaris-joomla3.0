@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="content">
+	<name>Content - Scholaris</name>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<author>Unit4 Software Engineering</author>
+	<authorEmail>admin@unit4se.pl</authorEmail>
+	<authorUrl>www.unit4se.pl</authorUrl>
+	<creationDate>13-03-2013</creationDate>
+	<copyright>(C) 2013 Unit4 Software Engineering. All rights reserved.</copyright>
+	<version>1.0.0</version>
+	<description>Pozwala na obsługę kodów systemu Scholaris.</description>
+	<files>
+		<file plugin="scholaris">scholaris.php</file>
+	</files>
+</extension>
